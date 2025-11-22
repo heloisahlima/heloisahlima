@@ -3,5 +3,5 @@
 ## My games website👾
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
 
-![Heloisah GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima_icons=true&theme=radical)
+![Heloisah GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=radical)
 
