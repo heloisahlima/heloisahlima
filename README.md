@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=8D39F7&center=true&vCenter=true&width=435&lines=+Hello!+welcome+to+my+github+%E2%9C%A8+%F0%9F%91%BE)](https://git.io/typing-svg)
+
 ## Hello my name is Heloisah. I am a game programmer! 🎮
 
 ## My games website👾
