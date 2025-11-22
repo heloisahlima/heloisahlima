@@ -5,6 +5,15 @@
 ## My games website👾
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
 
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="Godot_icon"  />
+  <img width="8" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" height="40" alt="Godot_icon"  />
+  <img width="8" />
+</div>
+
 ![Heloisah GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=tokyonight)
 
 <picture align="center">
