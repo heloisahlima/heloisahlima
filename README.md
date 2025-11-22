@@ -7,7 +7,7 @@
 <div align="center">
   
 ## My name is Heloisah. I am a game programmer! 🎮
-  ## Game Engine end apps that I use
+## Game Engine end apps that I use
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="construct_icon"  />
@@ -18,13 +18,10 @@
   <img width="8" />
   <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" alt="krita_icon"  />
   <img width="8" />
+  
 </div>
 
-## My games website👾
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
-
-
-
+## My games website👾 <br> [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
 
 </div>
 
