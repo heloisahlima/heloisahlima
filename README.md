@@ -1,16 +1,20 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=8D39F7&center=true&vCenter=true&width=435&lines=+Hello!+welcome+to+my+github+%E2%9C%A8+%F0%9F%91%BE)](https://git.io/typing-svg)
+</div>
 
 ## Hello my name is Heloisah. I am a game programmer! 🎮
-
 ## My games website👾
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
-
-<div align="left">
+## ame Engine end apps that I use 
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="Godot_icon"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="construct_icon"  />
   <img width="8" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" height="40" alt="Godot_icon"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" height="40" alt="aseprite_icon"  />
+  <img width="8" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="40" alt="krita_icon"  />
   <img width="8" />
 </div>
 
