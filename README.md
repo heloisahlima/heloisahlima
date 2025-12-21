@@ -25,7 +25,7 @@
 
 </div>
 
-![Heloisah GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=tokyonight)
+![heloisahlima GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=tokyonight)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloisahlima/heloisahlima/output/github-contribution-grid-snake-dark.svg">
