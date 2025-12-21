@@ -19,6 +19,19 @@
   <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" alt="krita_icon"  />
   <img width="8" />
 
+---
+  <div align="center">
+  <a href="https://instagram.com/heloisah_lima_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href = "mailto:helo7dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/heloisah-lima-67262039b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  </div>
+
 ## My games website👾 <br> [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
 
 </div>
