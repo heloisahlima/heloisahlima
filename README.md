@@ -7,6 +7,7 @@
 <div align="center">
   
 ## My name is Heloisah. I am a game programmer! 🎮
+---
 ## Game Engine end apps that I use!
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
   <img width="8" />
@@ -26,7 +27,7 @@
   <a href="https://instagram.com/heloisah_lima_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href = "mailto:helo7dev@gmail.com">
+  <a href="mailto:helo7dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/heloisah-lima-67262039b/" target="_blank">
