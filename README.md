@@ -8,7 +8,7 @@
   
 ## My name is Heloisah. I am a game programmer! 🎮
 ---
-## Game Engine end apps that I use!
+## Game Engine end apps that I use!🖌️
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="construct_icon"  />
@@ -39,7 +39,19 @@
 </div>
 
 ---
-![heloisahlima GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=tokyonight)
+<div align="center">
+  <h2>some of my work👾</h2>
+<a href = "https://gdi-games.itch.io/mrame" target="_blank">
+  <img src="https://img.itch.zone/aW1nLzE4NDg0Mjk1LnBuZw==/315x250%23c/Iwo79w.png" height="240"/>
+    <img width="100" />
+</a>
+  <a href = "https://gdi-games.itch.io/a-joia-do-poder" target="_blank">
+  <img src="https://img.itch.zone/aW1nLzE1NTI1NjE0LmpwZw==/315x250%23c/PmB2ql.jpg" height="240"/>
+    <img width="100" />
+  </a>
+</div>
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloisahlima/heloisahlima/output/github-contribution-grid-snake-dark.svg">
