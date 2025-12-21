@@ -20,7 +20,9 @@
   <img width="8" />
 
 ---
-  <div align="center">
+<div align="center">
+  <h2> Learn more about my work and get in touch! 💻</h2>
+    
   <a href="https://instagram.com/heloisah_lima_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -30,12 +32,12 @@
   <a href="https://www.linkedin.com/in/heloisah-lima-67262039b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  </div>
-
-## My games website👾 <br> [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://gdi-games.itch.io/)
-
+  <a href = "https://gdi-games.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
+  </a>
 </div>
 
+---
 ![heloisahlima GitHub stats](https://github-readme-stats.vercel.app/api?username=heloisahlima&show_icons=true&theme=tokyonight)
 
 <picture align="center">
