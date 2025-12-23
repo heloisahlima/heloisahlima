@@ -3,10 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=8D39F7&center=true&vCenter=true&width=435&lines=+Hello!+welcome+to+my+github+%E2%9C%A8+%F0%9F%91%BE)](https://git.io/typing-svg)
 </div>
 
+<div align="center">
+
+  ## My name is Heloisah. I am a game programmer! 🎮
+  <p>My name is Heloisah Lima, and I have 4 years of experience in 2D game development. I have experience with the game engines Construct 3 and Godot 4. I am constantly evolving professionally, improving my skills, studying advanced topics, and seeking new challenges and opportunities in the technology field.</p>
+</div>
 
 <div align="center">
-  
-## My name is Heloisah. I am a game programmer! 🎮
+
 ---
 ## game engine and applications that I work with!🖌️
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
