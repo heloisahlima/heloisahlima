@@ -8,7 +8,7 @@
   
 ## My name is Heloisah. I am a game programmer! 🎮
 ---
-## Game Engine end apps that I use!🖌️
+## game engine and applications that I work with!🖌️
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1701px-Construct_3_Logo.svg.png" height="40" alt="construct_icon"  />
@@ -19,6 +19,11 @@
   <img width="8" />
   <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" alt="krita_icon"  />
   <img width="8" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" alt="krita_icon"  />
+  <img width="8" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-logo-icon.png" height="36" alt="krita_icon"  />
+  <img width="6" />
+
 
 ---
 <div align="center">
@@ -39,20 +44,29 @@
 </div>
 
 ---
-<div align="center">
+<div align ="center">
   <h2>some of my work👾</h2>
 <a href = "https://gdi-games.itch.io/mrame" target="_blank">
   <img src="https://img.itch.zone/aW1nLzE4NDg0Mjk1LnBuZw==/315x250%23c/Iwo79w.png" height="240"/>
-    <img width="100" />
-</a>
+    <img width="20" />
+
   <a href = "https://gdi-games.itch.io/a-joia-do-poder" target="_blank">
   <img src="https://img.itch.zone/aW1nLzE1NTI1NjE0LmpwZw==/315x250%23c/PmB2ql.jpg" height="240"/>
-    <img width="100" />
+    <img width="10" />
   </a>
+  </div>
+  
+<div>
+    <a href = "https://gdi-games.itch.io/space-game" target="_blank">
+  <img src="https://img.itch.zone/aW1nLzE0MTk1NzMwLnBuZw==/315x250%23c/1c%2F1IF.png" height="240"/>
+    <img width="20" />
+
+   <a href = "https://gdi-games.itch.io/zero-lixo" target="_blank">
+  <img src="https://img.itch.zone/aW1nLzEzNDkwODc2LnBuZw==/315x250%23c/Vqo3Ug.png" height="240"/>
+    <img width="10" />
 </div>
 
-</div>
-
+    
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloisahlima/heloisahlima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heloisahlima/heloisahlima/output/github-contribution-grid-snake-dark.svg">
