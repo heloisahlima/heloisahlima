@@ -31,6 +31,8 @@
   <img width="8" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-logo-icon.png" height="36" alt="krita_icon"  />
   <img width="6" />
+  <img src="https://asset.brandfetch.io/idAnDTFapY/idDdbxxs3M.png" height="36" alt="krita_icon"  />
+  <img width="6" />
 
 
 ---
