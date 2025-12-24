@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=8D39F7&center=true&vCenter=true&width=435&lines=+Hello!+welcome+to+my+github+%E2%9C%A8+%F0%9F%91%BE)](https://git.io/typing-svg)
 </div>
 
+<div>
+  <img src="https://github.com/heloisahlima/heloisahlima/blob/01a674e1a3f5d9db1870d89325a0c6a308706868/Texto%20do%20seu%20par%C3%A1grafo%20(2).gif"
+</div>
+
 <div align="center">
 
   ## My name is Heloisah. I am a game programmer! 🎮
