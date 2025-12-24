@@ -77,7 +77,10 @@
 </div>
 
 ---
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=heloisahlima&theme=modern-lilac2&hide_border=&short_numbers=" alt="GitHub Streak" /></a>
+<div>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=heloisahlima&theme=modern-lilac2&hide_border=&short_numbers=" alt="GitHub Streak" />
+  </a>
+</div>
     
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloisahlima/heloisahlima/output/github-contribution-grid-snake-dark.svg">
