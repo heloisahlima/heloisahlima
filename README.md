@@ -39,7 +39,7 @@
 <div align="center">
   <h2> Learn more about my work and get in touch! 💻</h2>
     
-  <a href="https://instagram.com/heloisah_lima_" target="_blank">
+  <a href="https://instagram.com/helolima.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:helo7dev@gmail.com">
