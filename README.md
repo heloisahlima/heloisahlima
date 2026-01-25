@@ -21,7 +21,7 @@
   <img width="8" />
   <img src="https://github.com/heloisahlima/heloisahlima/blob/651db95f36e36382c37d68ebfe88853cab6bba28/Construct_3_Logo.svg.png" height="36" alt="construct_icon"  />
   <img width="8" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1120px-Logo_Aseprite.svg.png" height="40" alt="aseprite_icon"  />
+    <img src="https://github.com/heloisahlima/heloisahlima/blob/813b88e465d55cefa00f6bf961c6f8e2cd474ce8/Logo_Aseprite.svg.png" height="40" alt="aseprite_icon"  />
   <img width="8" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height="40" alt="krita_icon"  />
   <img width="8" />
