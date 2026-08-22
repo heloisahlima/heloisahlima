@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/heloisahlima/heloisahlima/blob/acc395e63aa821b4cb648329edc08a96c2fd334e/Texto%20do%20seu%20par%C3%A1grafo.png"
+  <img src="https://github.com/heloisahlima/heloisahlima/blob/0d4b495f082f6be13612f35246aef9e59a59097e/Texto%20do%20seu%20par%C3%A1grafo%20(2).gif"
 </div>
 
 <div align="center">
