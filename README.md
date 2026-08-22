@@ -27,7 +27,7 @@
   <img width="8" />
   <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" alt="krita_icon"  />
   <img width="8" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" alt="krita_icon"  />
+   <img src="https://github.com/heloisahlima/heloisahlima/blob/40b3ce7d760af30a517feb0de3c080196e7d409c/Notion_app_logo-1.png" height="40" alt="krita_icon"  />
   <img width="8" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-logo-icon.png" height="36" alt="krita_icon"  />
   <img width="6" />
