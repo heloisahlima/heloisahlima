@@ -17,8 +17,8 @@
 
 ---
 ## game engine and applications that I work with!🖌️
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="40" alt="Godot_icon"  />
-  <img width="8" />
+  <img src="https://github.com/heloisahlima/heloisahlima/blob/4a29a797e2f3270e34b8fc35917d505f75cdeb82/6318500.png" height="40" alt="Godot_icon"  />
+  <img width="10" />
   <img src="https://github.com/heloisahlima/heloisahlima/blob/651db95f36e36382c37d68ebfe88853cab6bba28/Construct_3_Logo.svg.png" height="36" alt="construct_icon"  />
   <img width="8" />
     <img src="https://github.com/heloisahlima/heloisahlima/blob/813b88e465d55cefa00f6bf961c6f8e2cd474ce8/Logo_Aseprite.svg.png" height="40" alt="aseprite_icon"  />
